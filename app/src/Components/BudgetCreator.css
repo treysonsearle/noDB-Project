@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+ul, ol {
+    list-style-type: none;
+}
+
+
+.creator {
+    float:left;
+    margin-left: 15%;
+    width: 400px;
+    height: 800px;
+    background-color: #41b3a3;
+}
+
+.income-btns, .expense-btns {
+    
+    width: 50%;
+    display:inline-block;
+}
+
+ul {
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+input {
+    width: 100px;
+    display:inline-block;
+}
+button {
+    display:inline-block;
+    border: none;
+    background-color:  #E27D60;
+
+
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    padding: 2px;
+    margin-left: 10px;
+}
+.list-holder {
+    margin-left: 50px;
+    width: 300px;
+    height: 700px;
+    background-color: #999999;
+    
+}
+
+

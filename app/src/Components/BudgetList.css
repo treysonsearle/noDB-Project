@@ -1,0 +1,25 @@
+.budgets-container{
+    float:left;
+    margin-left: 15%;
+    width: 400px;
+    height: 800px;
+    background-color: #41b3a3;
+}
+h2 {
+    margin: 0;
+    padding: 0;
+}
+.budgets-list {
+    margin-bottom: 50px;
+    margin-left: 50px;
+    width: 300px;
+    height: 700px;
+    background-color: #999999;
+}
+
+ol>li {
+    margin-bottom: 5px;
+    border: solid;
+    border-color: #666666;
+
+}
